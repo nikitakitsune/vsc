@@ -5,6 +5,7 @@ A selection of the best extensions and configs for web development
 ## Navigation
 
 * [Сode style and formatting](#code-style)
+* [Languages and snippets](Languages#and#snippets)
 * [Interface](#interface)
 * [Design](design)
 
@@ -31,7 +32,13 @@ helps maintain consistent coding styles for multiple developers working on the s
 EditorConfig.EditorConfig
 ```
 
-## 💻 Interface
+## 🪄 Languages and snippets
+
+#### CSS Intellisense for HTML
+
+`ecmel.vscode-html-css`
+
+## 📁Interface
 
 #### Explorer Exclude (Hides service files, such as /node_modules)
 

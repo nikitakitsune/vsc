@@ -4,11 +4,11 @@ A selection of the best extensions and configs for web development
 
 ## Navigation
 
-- [Сode style and formatting](#code-style)
-- [Languages and snippets](Languages#and#snippets)
-- [Tools](#Tools)
+- [Сode style and formatting](#-code-style-and-formatting)
+- [Languages and snippets](#-languages-and-snippets)
+- [Tools](#%EF%B8%8F-tools)
 - [Interface](#interface)
-- [Design](design)
+- [Design](#-design)
 
 ## 💅 Code style and formatting
 

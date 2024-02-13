@@ -12,6 +12,34 @@ A selection of the best extensions and configs for web development
 
 ## 💅 Code style and formatting
 
+#### Code formatter using prettier ([prettier](https://prettier.io/))
+
+`esbenp.prettier-vscode`
+
+#### Format JavaScript and Typescript code using prettier-eslint package
+
+`rvest.vs-code-prettier-eslint`
+
+```json
+{
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": false,
+  "eslint.run": "onSave",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "always"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsx]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
+```
+
 #### Close and rename HTML tags
 
 ```
@@ -59,6 +87,10 @@ helps maintain consistent coding styles for multiple developers working on the s
 
 `unifiedjs.vscode-mdx`
 
+#### Plugin that autocompletes filenames
+
+`christian-kohler.path-intellisense`
+
 ## ⚒️ Tools
 
 #### Manage npm dependencies from sidebar (npm, yarn, pnpm, bun)
@@ -90,6 +122,10 @@ helps maintain consistent coding styles for multiple developers working on the s
 #### View and run NPM scripts in the sidebar
 
 `traBpUkciP.vscode-npm-scripts`
+
+#### View word,excel files and using WYSIWYG editor for markdown
+
+`cweijan.vscode-office`
 
 #### Json for VSC
 

@@ -4,9 +4,14 @@ A selection of the best extensions and configs for web development
 
 ## Navigation
 
-- [Сode style and formatting](#code-style)
-- [Interface](#interface)
-- [Design](design)
+[Сode style and formatting](#code-style)
+
+[Interface](#interface)
+
+[Design](design)
+
+
+## 💅 Code style and formatting
 
 #### Close and rename HTML tags
 

@@ -6,7 +6,7 @@ A selection of the best extensions and configs for web development
 
 - [Сode style and formatting](#code-style)
 - [Languages and snippets](Languages#and#snippets)
-- [Tools](#tools)
+- [Tools](#Tools)
 - [Interface](#interface)
 - [Design](design)
 

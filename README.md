@@ -4,8 +4,8 @@ A selection of the best extensions and configs for web development
 
 ## Navigation
 
-* Сode style
-* Design
+- [Сode style](#design)
+- Design
 
 ## Code style
 

@@ -9,7 +9,7 @@ A selection of the best extensions and configs for web development
 
 ## 💅 Code style
 
-### Autoprefixer (Parse CSS and add vendor prefixes automatically)
+Autoprefixer (Parse CSS and add vendor prefixes automatically)
 
 mrmlnc.vscode-autoprefixer
 
@@ -27,19 +27,19 @@ PeterSchmalfeldt.explorer-exclude
 
 ## 💖 Design
 
-### Theme (From Legendary Atom editor)
+#### Theme (From Legendary Atom editor)
 
 NAPTheDevHcj.atom-background-modified
 
-### Icons (Best material design)
+#### Icons (Best material design)
 
 PKief.material-icon-theme
 
-### Fonts
+##### Fonts
 
 Consolas
 Fira Code
 
-### Better comments (color and prefixes)
+Better comments (color and prefixes)
 
 aaron-bond.better-comments

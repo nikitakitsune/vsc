@@ -1,4 +1,4 @@
-# ✨Visual Studio Code for frontend
+# ✨Visual Studio Code for web-dev
 
 A selection of the best extensions and configs for web development
 

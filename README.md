@@ -1,48 +1,21 @@
 # ✨Visual Studio Code for frontend
 
-## Design
+A selection of the best extensions and configs for web development
 
-Theme *(From Legendary Atom editor)*
+## Navigation
 
-```
-NAPTheDevHcj.atom-background-modified
-```
-
-Icons *(Best material design)*
-
-```
-PKief.material-icon-theme
-```
-
-Fonts
-
-```
-Consolas
-```
-
-```
-Fira Code
-```
-
-Better comments (color and prefixes)
-
-```
-aaron-bond.better-comments
-```
+* Сode style
+* Design
 
 ## Code style
 
-Autoprefixer (Parse CSS and add vendor prefixes automatically)
+### Autoprefixer (Parse CSS and add vendor prefixes automatically)
 
-```
 mrmlnc.vscode-autoprefixer
-```
 
 ## Explorer Exclude (Hides service files, such as /node_modules)
 
-```
 PeterSchmalfeldt.explorer-exclude
-```
 
 ```json
   "files.exclude": {
@@ -51,3 +24,22 @@ PeterSchmalfeldt.explorer-exclude
   },
   "toggleexcludedfiles.statusBar.enabled": true,
 ```
+
+## Design
+
+### Theme (From Legendary Atom editor)
+
+NAPTheDevHcj.atom-background-modified
+
+### Icons (Best material design)
+
+PKief.material-icon-theme
+
+### Fonts
+
+Consolas
+Fira Code
+
+### Better comments (color and prefixes)
+
+aaron-bond.better-comments

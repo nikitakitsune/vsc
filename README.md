@@ -4,10 +4,11 @@ A selection of the best extensions and configs for web development
 
 ## Navigation
 
-* [Сode style and formatting](#code-style)
-* [Languages and snippets](Languages#and#snippets)
-* [Interface](#interface)
-* [Design](design)
+- [Сode style and formatting](#code-style)
+- [Languages and snippets](Languages#and#snippets)
+- [Tools](#tools)
+- [Interface](#interface)
+- [Design](design)
 
 ## 💅 Code style and formatting
 
@@ -20,17 +21,17 @@ formulahendry.auto-rename-tag
 
 #### Autoprefixer (Parse CSS and add vendor prefixes automatically)
 
-```
-mrmlnc.vscode-autoprefixer
-```
+`mrmlnc.vscode-autoprefixer`
 
 #### Сoding styles for multiple developers ([Editorconfig](https://editorconfig.org/ "editorconfig.org"))
 
 helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs
 
-```
-EditorConfig.EditorConfig
-```
+`EditorConfig.EditorConfig`
+
+#### JSON Formatter
+
+`ClemensPeters.format-json`
 
 ## 🪄 Languages and snippets
 
@@ -38,13 +39,45 @@ EditorConfig.EditorConfig
 
 `ecmel.vscode-html-css`
 
+#### Code snippets for JavaScript in ES6 syntax
+
+`xabikos.JavaScriptSnippets`
+
+#### Extensions for React, Redux in JS with babel and ES7 syntax
+
+`skyran.js-jsx-snippets`
+
+#### Plugin that autocompletes npm modules in import statements
+
+`christian-kohler.npm-intellisense`
+
+#### jQuery Code Snippets
+
+`donjayamanne.jquerysnippets`
+
+#### Language support for MDX
+
+`unifiedjs.vscode-mdx`
+
+## ⚒️ Tools
+
+#### Manage npm dependencies from sidebar (npm, yarn, pnpm, bun)
+
+`idered.npm`
+
+#### Launch a development local Server with live reload feature for static & dynamic pages
+
+`ritwickdey.LiveServer`
+
+#### Real-time collaborative development
+
+`ms-vsliveshare.vsliveshare`
+
 ## 📁Interface
 
 #### Explorer Exclude (Hides service files, such as /node_modules)
 
-```
-PeterSchmalfeldt.explorer-exclude
-```
+`PeterSchmalfeldt.explorer-exclude`
 
 ```json
   "files.exclude": {
@@ -54,18 +87,25 @@ PeterSchmalfeldt.explorer-exclude
   "toggleexcludedfiles.statusBar.enabled": true,
 ```
 
+#### View and run NPM scripts in the sidebar
+
+`traBpUkciP.vscode-npm-scripts`
+
+#### Json for VSC
+
+`ZainChen.json`
+
 ## 💖 Design
 
 #### Theme (From Legendary Atom editor)
 
-```
-NAPTheDevHcj.atom-background-modified
-```
+`NAPTheDevHcj.atom-background-modified`
 
-#### Icons (Best material design)
+#### Icons
 
 ```
 PKief.material-icon-theme
+Equinusocio.moxer-icons
 ```
 
 #### Fonts
@@ -77,6 +117,4 @@ Fira Code
 
 #### Better comments (color and prefixes)
 
-```
-aaron-bond.better-comments
-```
+`aaron-bond.better-comments`

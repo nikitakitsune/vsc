@@ -23,8 +23,7 @@ mrmlnc.vscode-autoprefixer
 
 #### Сoding styles for multiple developers ([Editorconfig](https://editorconfig.org/ "editorconfig.org"))
 
-EditorConfig helps maintain consistent coding styles for multiple
-developers working on the same project across various editors and IDEs
+helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs
 
 ```
 EditorConfig.EditorConfig

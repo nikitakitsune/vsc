@@ -4,10 +4,17 @@ A selection of the best extensions and configs for web development
 
 ## Navigation
 
-- [Сode style](#code-style)
+- [Сode style and formatting](#code-style)
 - [Design](design)
 
-## 💅 Code style
+## 💅 Code style and formatting
+
+#### Close and rename HTML tags
+
+```
+formulahendry.auto-close-tag
+formulahendry.auto-rename-tag
+```
 
 #### Autoprefixer (Parse CSS and add vendor prefixes automatically)
 
@@ -15,7 +22,11 @@ A selection of the best extensions and configs for web development
 mrmlnc.vscode-autoprefixer
 ```
 
-## Explorer Exclude (Hides service files, such as /node_modules)
+#### Сoding styles for multiple developers ([Editorconfig](https://editorconfig.org/ "editorconfig.org"))
+
+## 💻 Interface
+
+#### Explorer Exclude (Hides service files, such as /node_modules)
 
 ```
 PeterSchmalfeldt.explorer-exclude

@@ -91,7 +91,19 @@ helps maintain consistent coding styles for multiple developers working on the s
 
 `christian-kohler.path-intellisense`
 
+#### Indented Sass syntax Highlighting, Autocomplete & Formatter ([SASS](https://sass-lang.com/))
+
+`syler.sass-indented`
+
+#### XML Language Support
+
+`redhat.vscode-xml`
+
 ## ⚒️ Tools
+
+#### JavaScript and TypeScript playground in your editor ([Quokka](https://quokkajs.com/))
+
+`WallabyJs.quokka-vscode`
 
 #### Manage npm dependencies from sidebar (npm, yarn, pnpm, bun)
 
@@ -105,7 +117,19 @@ helps maintain consistent coding styles for multiple developers working on the s
 
 `ms-vsliveshare.vsliveshare`
 
+#### Open any folder on a remote machine using SSH
+
+```
+ms-vscode-remote.remote-ssh
+ms-vscode-remote.remote-ssh-edit
+ms-vscode.remote-explorer
+```
+
 ## 📁Interface
+
+#### View a Git Graph of your repository
+
+`mhutchie.git-graph`
 
 #### Explorer Exclude (Hides service files, such as /node_modules)
 
@@ -119,6 +143,10 @@ helps maintain consistent coding styles for multiple developers working on the s
   "toggleexcludedfiles.statusBar.enabled": true,
 ```
 
+#### SQLite Viewer
+
+`qwtel.sqlite-viewer`
+
 #### View and run NPM scripts in the sidebar
 
 `traBpUkciP.vscode-npm-scripts`
@@ -126,6 +154,10 @@ helps maintain consistent coding styles for multiple developers working on the s
 #### View word,excel files and using WYSIWYG editor for markdown
 
 `cweijan.vscode-office`
+
+#### Display pdf file
+
+`tomoki1207.pdf`
 
 #### Json for VSC
 
@@ -154,3 +186,7 @@ Fira Code
 #### Better comments (color and prefixes)
 
 `aaron-bond.better-comments`
+
+#### Styled-jsx syntax highlight and code intellisense
+
+`blanu.vscode-styled-jsx`

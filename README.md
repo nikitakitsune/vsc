@@ -7,7 +7,7 @@ A selection of the best extensions and configs for web development
 - [Сode style](#code-style)
 - [Design](design)
 
-## Code style
+## 💅 Code style
 
 ### Autoprefixer (Parse CSS and add vendor prefixes automatically)
 
@@ -25,7 +25,7 @@ PeterSchmalfeldt.explorer-exclude
   "toggleexcludedfiles.statusBar.enabled": true,
 ```
 
-## Design
+## 💖 Design
 
 ### Theme (From Legendary Atom editor)
 
